@@ -25,7 +25,7 @@ button.
 
 ✅Installation:
 Clone the repository from GitHub:
-- ```git clone https://github.com/your-username/MaterialListBoxManager.git```
+- ```git clone https://github.com/arashtabaa/MaterialListBoxManager.git```
 - Open the solution file in Visual Studio.
 - Build and run the project.
 
