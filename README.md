@@ -1,2 +1,3 @@
 # MaterialListBoxManager
 A Windows Forms application for managing and manipulating items in MaterialListBox controls with various operations such as add, find, insert, replace, sort, delete, copy, and clear.
+MaterialListBoxManager is a .NET Windows Forms application designed to showcase effective management and manipulation of items within MaterialListBox controls. This application supports a wide range of operations including adding, finding, inserting, replacing, sorting, deleting, copying, and clearing items in the list. The project is suitable for learning purposes and can be extended for more complex use cases involving list management.
