@@ -1,6 +1,6 @@
-# MaterialListBoxManager
+# DataArray
 ♻️Description:
-MaterialListBoxManager is a Windows Forms application that demonstrates the management and manipulation of items within MaterialListBox controls. The application allows users to add, find, insert, replace, sort, delete, copy, and clear text or numerical items in ListBox controls. This project also includes functionality to handle text and numbers, providing an interactive way to manage lists of items with various operations.
+MaterialListBoxManager with DataArray is a Windows Forms application that demonstrates the management and manipulation of items within MaterialListBox controls. The application allows users to add, find, insert, replace, sort, delete, copy, and clear text or numerical items in ListBox controls. This project also includes functionality to handle text and numbers, providing an interactive way to manage lists of items with various operations.
 
 ⚓Features:
 - Add Items: Add new text or numerical items to the list.
