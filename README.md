@@ -41,4 +41,4 @@ License:
 This project is licensed under the MIT License.
 
 Author:
-Arash Tabatabaei - [GitHub Profile](https://github.com/arashtabaa)
+Arash Tabatabaei - [arashtabaa](https://github.com/arashtabaa)
