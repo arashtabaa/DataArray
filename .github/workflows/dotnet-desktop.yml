@@ -1,4 +1,4 @@
-name: Build and Test
+name: Build and Package
 
 on:
   push:
@@ -8,22 +8,25 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+
+    runs-on: windows-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
-
-    - name: Setup .NET Core SDK
-      uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: '5.0.x'
+        fetch-depth: 0
 
-    - name: Restore dependencies
-      run: dotnet restore
+    - name: Install .NET Framework SDK
+      uses: warrenbuckley/Setup-NET-Framework@v1
+      with:
+        dotnet-version: '4.7.2'
 
     - name: Build project
-      run: dotnet build --configuration Release
+      run: msbuild DataArray/DataArray.csproj /p:Configuration=Debug
 
-    - name: Run tests
-      run: dotnet test --configuration Release --no-build
+    - name: Upload DataArray.exe
+      uses: actions/upload-artifact@v2
+      with:
+        name: DataArray Executable
+        path: DataArray/bin/Debug/DataArray.exe
