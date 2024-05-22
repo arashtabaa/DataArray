@@ -37,8 +37,8 @@ Clone the repository from GitHub:
 - Feel free to submit issues and enhancement requests.
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-License:
-This project is licensed under the MIT License.
+🪪License:
+- This project is licensed under the MIT License. See the [LICENSE](https://github.com/arashtabaa/DataArrayApp/tree/main?tab=MIT-1-ov-file#) file for more information.
 
-Author:
-Arash Tabatabaei - [arashtabaa](https://github.com/arashtabaa)
+✍️Author:
+- Arash Tabatabaei - [arashtabaa](https://github.com/arashtabaa)
