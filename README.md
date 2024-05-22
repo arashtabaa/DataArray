@@ -24,7 +24,7 @@ button.
 - Clearing All Items: Click the 'Clear All' button to remove all items from the list.
 
 ✅Installation:
-Clone the repository from GitHub:
+- Clone the repository from GitHub:
 - ```git clone https://github.com/arashtabaa/DataArrayApp.git```
 - Open the solution file in Visual Studio.
 - Build and run the project.
