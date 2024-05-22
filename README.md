@@ -29,7 +29,8 @@ Clone the repository from GitHub:
 - Open the solution file in Visual Studio.
 - Build and run the project.
 
-💫Dependencies:
+💫Requirements:
+- Visual Studio 2019 or later
 - .NET Framework 4.7.2 or higher
 - MaterialSkin2 (for Material Design components)
 
