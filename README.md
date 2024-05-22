@@ -25,7 +25,7 @@ button.
 
 ✅Installation:
 Clone the repository from GitHub:
-- ```git clone https://github.com/arashtabaa/MaterialListBoxManager.git```
+- ```git clone https://github.com/arashtabaa/DataArray.git```
 - Open the solution file in Visual Studio.
 - Build and run the project.
 
