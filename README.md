@@ -1,4 +1,4 @@
-# DataArray
+# DataArrayApp
 ♻️Description:
 MaterialListBoxManager with DataArray is a Windows Forms application that demonstrates the management and manipulation of items within MaterialListBox controls. The application allows users to add, find, insert, replace, sort, delete, copy, and clear text or numerical items in ListBox controls. This project also includes functionality to handle text and numbers, providing an interactive way to manage lists of items with various operations.
 
@@ -25,7 +25,7 @@ button.
 
 ✅Installation:
 Clone the repository from GitHub:
-- ```git clone https://github.com/arashtabaa/DataArray.git```
+- ```git clone https://github.com/arashtabaa/DataArrayApp.git```
 - Open the solution file in Visual Studio.
 - Build and run the project.
 
