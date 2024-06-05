@@ -1,4 +1,7 @@
 # DataArrayApp
+
+[![GitHub release](https://img.shields.io/github/release/arashtabaa/DataArrayApp?style=flat-square)](https://github.com/arashtabaa/DataArrayApp/releases/latest)
+
 ![image_2024-05-22_133458889](https://github.com/arashtabaa/DataArrayApp/assets/153722318/4747a59c-dc08-415e-bce9-e29bbea5669f)
 ![image_2024-05-22_133508680](https://github.com/arashtabaa/DataArrayApp/assets/153722318/9c8d4f61-e226-47f1-9335-47c63717b0d0)
 
